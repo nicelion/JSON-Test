@@ -1,0 +1,45 @@
+{
+
+		"Posts": [
+
+
+			{
+				"post-title": "Ian Thompson is the bomb",
+				"post-description": "Ian Thompson is so cool!",
+				"post-image": "https://i.imgur.com/51ou0wl.jpg",
+				"link": "http://www.instagram.com/thompson_ian",
+				"isBlue": true
+			},
+
+			{
+				
+				"post-title": "NiceL Lion Tech",
+				"post-description": "Ian Thompson is the owner of Nice Lion Tech",
+				"post-image": "https://i.imgur.com/Of5Wcvr.png",
+				"link": "http://www.youtube.com",
+				"isBlue": false
+			},
+
+			{
+				"post-title": "Follow Ian on Twitter!",
+				"post-description": "if you can read this, Follow me on Twitter!",
+				"post-image": "https://i.imgur.com/0D6JeCK.jpg?1",
+				"link": "http://www.twitter.com/thompson__ian",
+				"isBlue": false
+			},
+
+			{
+				"post-title": "Swift Rocks!",
+				"post-description": "Hack with Swift!",
+				"post-image": "https://i.imgur.com/Rk1Iw7j.jpg",
+				"link": "https://www.hackingwithswift.com",
+				"isBlue": true
+			},
+
+
+
+		]
+
+
+
+}
